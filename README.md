@@ -12,4 +12,5 @@ https://www.kaggle.com/yurikapo01/the-beginning-my-first-public-notebook
 
 *Others
 Chat Bot on LINE (2019)
-https://www.youtube.com/channel/UCqX5v6cETqb6RQLNdk5I7mA/
+https://www.youtube.com/channel/UCqX5v6cETqb6RQLNdk5I7mA/  
+I also created the website as well, however, it is changed a little after I left. So I only upload this as my demo.
