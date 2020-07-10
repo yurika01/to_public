@@ -1,5 +1,5 @@
 # to_public (Generally my repository is private)
-
+========================================================================
 # Trend analysis from Google Trends API
 It contains trand of Cloud and Japanese Cosmetic Company
 * Git: https://github.com/yurika01/to_public/blob/master/Trend.ipynb
